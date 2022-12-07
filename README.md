@@ -15,35 +15,45 @@ Here are the production contracts:
 <tr>
 <td>GigaMart</td>
 <td >
+
 [0xcA833F943a0C7D3C4021B0b161a2686f9ebf6b02](https://etherscan.io/address/0xca833f943a0c7d3c4021b0b161a2686f9ebf6b02)
+
 </td>
 </tr>
 
 <tr>
 <td>Platform Fee Timelock</td>
 <td >
+
 [0x31f199C8107b6E5F055D332B501e8f2f36c61EE0](https://etherscan.io/address/0x31f199C8107b6E5F055D332B501e8f2f36c61EE0)
+
 </td>
 </tr>
 
 <tr>
 <td>GigaMart Proxy Registry</td>
 <td >
+
 [0x72939b9d6fe467d58D9b6cd35F35FA7DE9383D01](https://etherscan.io/address/0x72939b9d6fe467d58D9b6cd35F35FA7DE9383D01)
+
 </td>
 </tr>
 
 <tr>
 <td>GigaMart Token Transfer Proxy</td>
 <td >
+
 [0x2f0809Aa3f09b19d5e8CD869108427032683e901](https://etherscan.io/address/0x2f0809Aa3f09b19d5e8CD869108427032683e901)
+
 </td>
 </tr>
 
 <tr>
 <td>GigaMart Aggregator</td>
 <td >
+
 [0x4C9712Cd94376C537464cAa4d87bce198d59936c](https://etherscan.io/address/0x4C9712Cd94376C537464cAa4d87bce198d59936c)
+
 </td>
 </tr>
 
